@@ -1,0 +1,13 @@
+release/emphome.o
+release/emplogin.o
+release/facture.o
+release/main.o
+release/mainwindow.o
+release/userhome.o
+release/userlogin.o
+release/moc_emphome.o
+release/moc_emplogin.o
+release/moc_facture.o
+release/moc_mainwindow.o
+release/moc_userhome.o
+release/moc_userlogin.o

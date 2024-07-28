@@ -1,0 +1,13 @@
+debug/emphome.o
+debug/emplogin.o
+debug/facture.o
+debug/main.o
+debug/mainwindow.o
+debug/userhome.o
+debug/userlogin.o
+debug/moc_emphome.o
+debug/moc_emplogin.o
+debug/moc_facture.o
+debug/moc_mainwindow.o
+debug/moc_userhome.o
+debug/moc_userlogin.o
